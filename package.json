@@ -1,0 +1,16 @@
+{
+  "name": "studycases",
+  "version": "0.0.1",
+  "description": "This repository contains study cases for algoritms and data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run jest"
+  },
+  "keywords": [
+    "algorits",
+    "data",
+    "structures"
+  ],
+  "author": "guvenkaranfil, keremkaranfiil",
+  "license": "ISC"
+}
