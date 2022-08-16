@@ -1,4 +1,7 @@
 const convertLinkedListToArray = (head) => {
 };
 
-export { convertLinkedListToArray }
+const findLongestString = (head) => {
+}
+
+export { convertLinkedListToArray, findLongestString }
